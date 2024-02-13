@@ -21,5 +21,5 @@ response = WS.sendRequestAndVerify(findTestObject('Booking/GetBookingIds'))
 
 WS.verifyElementPropertyValue(response, 'firstname', "siahaan")
 
-//WS.delay(2)
+
 
