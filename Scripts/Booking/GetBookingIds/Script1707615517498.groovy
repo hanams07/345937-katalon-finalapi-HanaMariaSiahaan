@@ -22,4 +22,4 @@ response = WS.sendRequestAndVerify(findTestObject('Booking/GetBookingIds'))
 WS.verifyElementPropertyValue(response, 'firstname', "siahaan")
 
 
-
+//https://github.com/hanams07/345937-katalon-finalapi-Hana-Maria-Siahaan.git
